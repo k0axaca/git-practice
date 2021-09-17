@@ -2,7 +2,7 @@ def max_value(numbers):
     """ This function returns the largest number
         in the list.
     """
-    max_value = max(numbers)
+    max_value_conflict = max(numbers)
     return max_value
     
 
