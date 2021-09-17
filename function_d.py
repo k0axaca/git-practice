@@ -3,6 +3,7 @@ def max_value(numbers):
         in the list.
     """
     max_value_conflict = max(numbers)
+    conflict = 0
     return max_value
     
 
